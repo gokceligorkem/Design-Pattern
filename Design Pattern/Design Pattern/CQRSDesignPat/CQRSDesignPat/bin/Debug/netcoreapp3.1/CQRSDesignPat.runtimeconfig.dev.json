@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fls20\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fls20\\.nuget\\packages"
+    ]
+  }
+}

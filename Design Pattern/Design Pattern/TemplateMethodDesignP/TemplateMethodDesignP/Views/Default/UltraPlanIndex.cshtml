@@ -1,0 +1,20 @@
+﻿@model TemplateMethodDesignP.TemplatePattern.Netflixplan
+
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<div class="Container">
+    <br />
+    <h1>UltraPlan Details</h1>
+    <p>Plan Type: @Model.PlanType("Ultra")</p>
+    <p>Number of Persons: @Model.CountPerson(5)</p>
+    <p>Price: @Model.Price(14.99)</p>
+    <p>Resolution: @Model.Resolution("4K")</p>
+    <p>Content: @Model.Content("Ultra Content")</p>
+
+    <a href="/Default/StandartPlanIndex/" class="btn btn-info">Standart Plan</a>
+    <a href="/Default/UltraPlanIndex/" class="btn btn-info">Ultra Plan</a>
+</div>

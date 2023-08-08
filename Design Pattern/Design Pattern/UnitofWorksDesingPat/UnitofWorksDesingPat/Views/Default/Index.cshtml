@@ -1,0 +1,29 @@
+﻿@model CustomerViewModel
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="SenderID">SenderID</label>
+            <input type="text" asp-for="SenderID" class="form-control" />
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="RecevierID">RecevierID</label>
+            <input type="text" asp-for="RecevierID" class="form-control" />
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Amount">Amount</label>
+            <input type="text" asp-for="Amount" class="form-control" />
+
+        </div>
+
+        <button type="submit" class="btn btn-primary">Gönder</button>
+    </form>
+</div>

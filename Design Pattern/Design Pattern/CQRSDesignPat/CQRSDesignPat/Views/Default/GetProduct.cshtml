@@ -1,0 +1,21 @@
+﻿@model CQRSDesignPat.CQRSDesignPat.Result.GetByIDQueryResult
+@{
+    Layout = null;
+}
+<div class="container">
+    <form method="post">
+        <br />
+        <label>Ürün ID</label><br />
+        <input asp-for="ID" class="form-group" /><br />
+        <label>Ürün Adı</label><br />
+        <input asp-for="ProductName" class="form-group" /><br />
+        <label>Ürün Stok</label><br />
+        <input asp-for="Stock" class="form-group" /><br />
+        <label>Ürün Fiyat</label><br />
+        <input asp-for="Price" class="form-group" /><br />
+        
+        <button class="btn btn-success">Ürün Ekle</button>
+    </form>
+</div>
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />

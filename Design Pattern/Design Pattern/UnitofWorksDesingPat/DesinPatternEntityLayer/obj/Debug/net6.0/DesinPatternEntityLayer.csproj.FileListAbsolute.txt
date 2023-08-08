@@ -1,0 +1,14 @@
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\bin\Debug\net6.0\DesinPatternEntityLayer.deps.json
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\bin\Debug\net6.0\DesinPatternEntityLayer.runtimeconfig.json
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\bin\Debug\net6.0\DesinPatternEntityLayer.dll
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\bin\Debug\net6.0\DesinPatternEntityLayer.pdb
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.csproj.AssemblyReference.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.AssemblyInfoInputs.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.AssemblyInfo.cs
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.dll
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\refint\DesinPatternEntityLayer.dll
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.pdb
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\DesinPatternEntityLayer.genruntimeconfig.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\UnitofWorksDesingPat\DesinPatternEntityLayer\obj\Debug\net6.0\ref\DesinPatternEntityLayer.dll

@@ -1,0 +1,22 @@
+﻿@model List<EntitiyleLayer.Concrete.Product>
+@{
+    Layout = null;
+}
+
+<div class="container">
+   
+    @foreach (var item in Model)
+    {
+        <ol>
+            <li>@item.ProductName</li>
+            <li>@item.ProductStock</li>
+            <li>@item.ProductPrice</li>
+            <li>@item.Category.CategoryName</li>
+
+            <li><a href="~/Product/DeleteProduct/@item.ProductID">Sil</a></li>
+            <li><a href="~/Product/UpdateProduct/@item.ProductID">Güncelle</a></li>
+
+        </ol>
+    }
+    <a href="~/Category/AddCategory/">Güncelle</a>
+</div>

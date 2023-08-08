@@ -1,0 +1,24 @@
+﻿@model TemplateMethodDesignP.TemplatePattern.Netflixplan
+
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<div class="Container">
+    <br />
+    <h1>BasicPlan Details</h1>
+    <p>Plan Type: @Model.PlanType("Basic")</p>
+    <p>Number of Persons: @Model.CountPerson(1)</p>
+    <p>Price: @Model.Price(5.99)</p>
+    <p>Resolution: @Model.Resolution("1080P")</p>
+    <p>Content: @Model.Content("Basic Content")</p>
+ @*   <h3>Plan Adı:@ViewBag.v1</h3>
+    <h3>Kişi Sayısı:@ViewBag.v2</h3>
+    <h3>Plan Fiyatı:@ViewBag.v3</h3>
+    <h3>Plan İçeriği:@ViewBag.v4</h3>
+    <h3>Plan Çözünürlüğü:@ViewBag.v5</h3>*@
+  <a href="/Default/StandartPlanIndex/" class="btn btn-info">Standart Plan</a>
+    <a href="/Default/BasicplanIndex/" class="btn btn-info">Ultra Plan</a>
+</div>

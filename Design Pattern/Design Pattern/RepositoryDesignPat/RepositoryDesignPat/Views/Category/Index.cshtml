@@ -1,0 +1,17 @@
+﻿@model List<EntitiyleLayer.Concrete.Category>
+@{
+    Layout = null;
+}
+
+<div class="container">
+    @foreach (var item in Model)
+    {<ol>
+       <li>@item.CategoryID</li> 
+       <li>@item.CategoryName</li>
+            <li><a href="~/Category/DeleteCategory/@item.CategoryID" >Sil</a></li>
+            <li><a href="~/Category/UpdateCategory/@item.CategoryID">Güncelle</a></li>
+       
+        </ol>
+    }
+    <a href="~/Category/AddCategory/">Güncelle</a>
+</div>

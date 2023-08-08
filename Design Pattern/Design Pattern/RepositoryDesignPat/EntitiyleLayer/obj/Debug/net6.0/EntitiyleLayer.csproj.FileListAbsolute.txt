@@ -1,0 +1,14 @@
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\bin\Debug\net6.0\EntitiyleLayer.deps.json
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\bin\Debug\net6.0\EntitiyleLayer.runtimeconfig.json
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\bin\Debug\net6.0\EntitiyleLayer.dll
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\bin\Debug\net6.0\EntitiyleLayer.pdb
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.csproj.AssemblyReference.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.AssemblyInfoInputs.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.AssemblyInfo.cs
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.csproj.CoreCompileInputs.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.dll
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\refint\EntitiyleLayer.dll
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.pdb
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\EntitiyleLayer.genruntimeconfig.cache
+C:\Users\fls20\OneDrive\Masaüstü\Design Pattern\Design Pattern\RepositoryDesignPat\EntitiyleLayer\obj\Debug\net6.0\ref\EntitiyleLayer.dll
